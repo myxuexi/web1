@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        body{
-            margin: 0%;
+        *{
+            padding: 0;
+            margin: 0;
         }
         .wrap{
             margin: relative;
@@ -49,25 +50,34 @@
         }
         .nav-center a span{
             font-size: 12px;
-            background-color:#990033 ;
+            color:#990033 ;
         }
-        .nav-center a :before{
+        .nav-center a:before{
             opacity: 0;
+            position: absolute;
+            top: 200px;
         }
-        .nav-center a :hover span,.nav-center a :hover p{
+        .nav-center a:hover span,.nav-center a:hover p{
             color: #ecab11e5;
+        }
+        .v-btn1{
+            height: 20px;
+            width: 20px;
+            background-color: #00bfff;
+            
         }
     </style>
 </head>
 <body>
         <div class="wrap">
-            <div class="video">
-                <video src="https://nie.v.netease.com/nie/2020/0728/55372e70f4bd521c7333b83867af66f7.mp4" autoplay="" loop="" muted=""></video>
+            <div class="video"> 
+                 <video src="https://nie.v.netease.com/nie/2020/0728/55372e70f4bd521c7333b83867af66f7.mp4" autoplay="" loop="" muted=""></video>
             </div>
-            <img src="img/家教.jpg" width="100%">
+           <div class="v-btn1">    </div>
+           
             <div class="nav">
                 <div class="nav-center">
-                    <a href=""><p>官网</p><span>NOME</span></a>
+                    <a href=""title="游戏"><p>官网</p><span>NOME</span></a>
                     <a href=""><p>官网</p><span>NOME</span></a>
                     <a href=""><p>官网</p><span>NOME</span></a>
                     <a href=""><p>官网</p><span>NOME</span></a>

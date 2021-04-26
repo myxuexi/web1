@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1602291517078'); /* IE9 */
+  src: url('iconfont.eot?t=1602291517078#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAREAAsAAAAACKQAAAP1AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCfgqFFIRDATYCJAMMCwgABCAFhG0HNhuBB8gOJQWRwIDhIQJFBF9rvf125hDdhzBaLh9WiMJFKCAZLh+HYFRYqKsYscO3zX+MRQW6aEAXiS7TXBUo2sjP7lOftiZ+3yvP/38upze9A2t9uiyXObZGvQDjgAIaY3mBBFwiYULeMHZ5kZcJNM3LAe2va9EAb5k+KxDXacMw8E6Y5Qoq1HXVgo1ZPFBRL24W47jvfT7+2xreFCqJvvDAxdoxUDGTf8qDV5YrHXcQkuGcYNtIWA/IxLFC9wFwkF4P1pTd7pZXN2fBLO9/6WBy8WL/8AgFUaWr25BcnSmYyS3JoUmgWYHxNL2KDn4BsQSQ42BFPeuMTZ3+SKOofkOn1GoQ6kDVA10cpxP0nUrdDUxrH3glSnGW027mookjovYQF68q117N0IEH700hRFHHi/olwPf5T1QZodSVR5Q/Fgohv2hqecMVK6IUGiKKuMrF+6ZXRuvZj9zyyHKtMlL5iC8AYFAz3v8qI8IJvSLcCN4Qk/ykIecFQSeKep7XzuKHXgnSM2L9S15yktNtvnjw0KVzF65Aq150bZ5dNbdlZuW0bvPelfu2HFi1XysHDl66EEWG5D/9PDhwaGBgxw5XYJrSJAnD4LijOIgWeWT3LX5aUuXlcyS+g9pUq7/krc7OQ2oVLkFTz0/Cjz6PX1T9qni47zyc5N7x4eChxoa6KY16k1r1NR7dQFe89m5s9Hyz37AB7Hx5L1xGSNXPJR++Nzd//xBKqKUcFl5tqg7HuNBChObRJM+lakLGI2uVqp7LacllKiknN8g5aClLhiVy8DxZ3Vp3wLUc2m3rHcgI0Y6ZdosE9qOMW7YeE2XV1WGh1TU4UlPjBu+vll8LOTU5uODf19iQqG/VxhSoERiclMvelwecJ4WpoOnOlCsBB4aL/H0+OQ2gnEk3EuZ9A0LwKr4xZTCo/F+9lcG/CxkECJUzGTS3qt84T/ATSBq2ZUWmW1KWxJZYyyUPQf02C6GQ8ymB7h/62F07aUwR2kkEhZo5SOqWo5lcDxUt26Gqbhc0rVO/vWWEAYvcwFrrAIS+G1Do+g5J3wSayQ9QMfUNqvoBQ9OxCDuwZWXQvtUMOcySY8jIIoQetdso08b6+rUq0jDPMszEZR5TRzIuOobIUDydqydtJDPEEtd8g5xlKYRi7FakDlxHWix2xMHYTeQoixpZ1lGKYVTRk9BRuxX42odBGsYijUGMWARBG2VnQzndWb6Z96uQDOaxGMZUtJT5dUgMF7p/hAwKb4DWq22NWi5luMt8BnIsFoWnURh2Vog66CRZjLQdwlE8zoQ0ioUydkg6lMJQJ6qpGp1ea72/PdCkn5aiiBRZ2t9W6TlC2wxj8wAAAAAA') format('woff2'),
+  url('iconfont.woff?t=1602291517078') format('woff'),
+  url('iconfont.ttf?t=1602291517078') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1602291517078#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-DNA:before {
+  content: "\e932";
+}
+
+.icon-bingdu:before {
+  content: "\e933";
+}
+
